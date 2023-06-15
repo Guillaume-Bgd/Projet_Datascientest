@@ -555,7 +555,7 @@ def analyses_dataviz():
     st.markdown('''Sur ce graphique on remarque également :
                 
     - une hausse des températures dès les années 1850.
-    - Les températures de l'automne et celles du printemp sont similaires
+    - Les températures de l'automne et celles du printemps sont similaires.
     ''', unsafe_allow_html=True)
     st.write(" ")
    
