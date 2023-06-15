@@ -27,7 +27,7 @@ def exploration_du_dataframe():
     st.write(" ")
     st.markdown("""Pour mener ce projet, nous nous sommes basés sur l'étude des données sur les émissions de CO2 dans le monde et les anomalies annuelles de températures.""")
     
-    st.divider()
+    #st.divider()
     st.markdown('''
                 <h3 class="title is-3  has-text-centered">Présentation des différentes sources de données utilisées.</h3>
     ''', unsafe_allow_html=True)
