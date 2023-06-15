@@ -84,7 +84,7 @@ def exploration_du_dataframe():
     """)
     
     
-    st.divider()
+    #st.divider()
     
     st.subheader("Le dataset 'datas'.")
     
