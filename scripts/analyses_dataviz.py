@@ -247,7 +247,7 @@ def analyses_dataviz():
     st.pyplot(fig3) 
     st.write(" ")
     st.info("On remarque sur le graphique ci-dessus une tendance nette à la hausse dans les 2 hémisphères. Les températures mesurées dans l'hémisphère sud maintiennent un écart positif de 6°C env. par rapport à l'hémisphère nord.")
-    st.divider()
+    #st.divider()
     st.write("Après avoir fait notre comparaison, nous avons fusionné les trois datasets afin d'avoir un seul dataset. Nous utilisons par la suite ce dataset pour afficher un diagrame polaire")
     st.write(" ")
     st.info("Le diagramme polaire permet d'avoir une vue globale de l'évolution des températures sur une période donnée. Les données sont représentées sous forme de courbes circulaires, ce qui facilite la comparaison des valeurs à différents moments ou emplacements.")
