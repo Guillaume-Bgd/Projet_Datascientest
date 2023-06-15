@@ -1,0 +1,679 @@
+Year,Value,country
+1910,-0.35,Africa
+1911,-0.46,Africa
+1912,-0.33,Africa
+1913,-0.20,Africa
+1914,-0.10,Africa
+1915,-0.13,Africa
+1916,-0.44,Africa
+1917,-0.52,Africa
+1918,-0.56,Africa
+1919,-0.10,Africa
+1920,-0.42,Africa
+1921,-0.42,Africa
+1922,-0.30,Africa
+1923,-0.36,Africa
+1924,-0.04,Africa
+1925,-0.28,Africa
+1926,0.03,Africa
+1927,-0.01,Africa
+1928,0.01,Africa
+1929,-0.25,Africa
+1930,-0.09,Africa
+1931,0.33,Africa
+1932,-0.06,Africa
+1933,0.00,Africa
+1934,-0.11,Africa
+1935,-0.16,Africa
+1936,-0.03,Africa
+1937,0.01,Africa
+1938,-0.11,Africa
+1939,-0.07,Africa
+1940,0.07,Africa
+1941,0.33,Africa
+1942,0.15,Africa
+1943,-0.25,Africa
+1944,-0.10,Africa
+1945,-0.10,Africa
+1946,-0.05,Africa
+1947,0.12,Africa
+1948,-0.24,Africa
+1949,-0.04,Africa
+1950,-0.29,Africa
+1951,-0.11,Africa
+1952,-0.03,Africa
+1953,-0.15,Africa
+1954,-0.26,Africa
+1955,-0.06,Africa
+1956,-0.35,Africa
+1957,-0.14,Africa
+1958,0.18,Africa
+1959,-0.07,Africa
+1960,0.06,Africa
+1961,-0.21,Africa
+1962,-0.03,Africa
+1963,0.07,Africa
+1964,-0.26,Africa
+1965,-0.26,Africa
+1966,0.10,Africa
+1967,-0.30,Africa
+1968,-0.20,Africa
+1969,0.33,Africa
+1970,0.08,Africa
+1971,-0.26,Africa
+1972,0.00,Africa
+1973,0.24,Africa
+1974,-0.31,Africa
+1975,-0.25,Africa
+1976,-0.21,Africa
+1977,0.07,Africa
+1978,0.07,Africa
+1979,0.35,Africa
+1980,0.30,Africa
+1981,0.12,Africa
+1982,0.09,Africa
+1983,0.38,Africa
+1984,0.22,Africa
+1985,0.25,Africa
+1986,0.22,Africa
+1987,0.72,Africa
+1988,0.42,Africa
+1989,0.05,Africa
+1990,0.52,Africa
+1991,0.29,Africa
+1992,0.10,Africa
+1993,0.38,Africa
+1994,0.26,Africa
+1995,0.55,Africa
+1996,0.52,Africa
+1997,0.53,Africa
+1998,0.90,Africa
+1999,0.60,Africa
+2000,0.42,Africa
+2001,0.63,Africa
+2002,0.81,Africa
+2003,0.85,Africa
+2004,0.79,Africa
+2005,01.02,Africa
+2006,0.77,Africa
+2007,0.75,Africa
+2008,0.67,Africa
+2009,0.97,Africa
+2010,1.37,Africa
+2011,0.77,Africa
+2012,0.80,Africa
+2013,0.92,Africa
+2014,0.97,Africa
+2015,01.06,Africa
+2016,1.35,Africa
+2017,01.08,Africa
+2018,01.09,Africa
+2019,1.20,Africa
+2020,1.21,Africa
+2021,1.31,Africa
+2022,0.99,Africa
+1910,-0.60,Asia
+1911,-0.61,Asia
+1912,-0.91,Asia
+1913,-0.55,Asia
+1914,0.03,Asia
+1915,-0.35,Asia
+1916,-0.59,Asia
+1917,-0.46,Asia
+1918,-0.59,Asia
+1919,-0.56,Asia
+1920,-0.33,Asia
+1921,0.03,Asia
+1922,-0.27,Asia
+1923,-0.36,Asia
+1924,-0.11,Asia
+1925,0.01,Asia
+1926,-0.08,Asia
+1927,-0.30,Asia
+1928,-0.35,Asia
+1929,-0.75,Asia
+1930,-0.29,Asia
+1931,-0.42,Asia
+1932,0.18,Asia
+1933,-0.64,Asia
+1934,-0.17,Asia
+1935,-0.13,Asia
+1936,-0.20,Asia
+1937,-0.20,Asia
+1938,0.23,Asia
+1939,0.26,Asia
+1940,-0.04,Asia
+1941,-0.22,Asia
+1942,-0.07,Asia
+1943,0.34,Asia
+1944,0.26,Asia
+1945,-0.25,Asia
+1946,-0.09,Asia
+1947,-0.05,Asia
+1948,0.43,Asia
+1949,-0.04,Asia
+1950,-0.45,Asia
+1951,0.07,Asia
+1952,-0.42,Asia
+1953,0.29,Asia
+1954,-0.30,Asia
+1955,-0.10,Asia
+1956,-0.48,Asia
+1957,-0.30,Asia
+1958,-0.18,Asia
+1959,0.12,Asia
+1960,-0.26,Asia
+1961,0.21,Asia
+1962,0.38,Asia
+1963,0.35,Asia
+1964,-0.34,Asia
+1965,-0.16,Asia
+1966,-0.24,Asia
+1967,0.19,Asia
+1968,-0.20,Asia
+1969,-0.77,Asia
+1970,-0.08,Asia
+1971,0.19,Asia
+1972,-0.33,Asia
+1973,0.42,Asia
+1974,-0.27,Asia
+1975,0.57,Asia
+1976,-0.42,Asia
+1977,0.06,Asia
+1978,0.20,Asia
+1979,0.08,Asia
+1980,0.18,Asia
+1981,0.67,Asia
+1982,0.23,Asia
+1983,0.72,Asia
+1984,-0.17,Asia
+1985,0.00,Asia
+1986,0.25,Asia
+1987,-0.06,Asia
+1988,0.77,Asia
+1989,0.71,Asia
+1990,0.95,Asia
+1991,0.69,Asia
+1992,0.23,Asia
+1993,0.36,Asia
+1994,0.54,Asia
+1995,1.26,Asia
+1996,0.35,Asia
+1997,0.83,Asia
+1998,0.80,Asia
+1999,0.90,Asia
+2000,0.75,Asia
+2001,0.97,Asia
+2002,1.22,Asia
+2003,01.09,Asia
+2004,01.06,Asia
+2005,1.24,Asia
+2006,0.99,Asia
+2007,1.73,Asia
+2008,1.41,Asia
+2009,0.98,Asia
+2010,01.07,Asia
+2011,1.18,Asia
+2012,0.95,Asia
+2013,1.35,Asia
+2014,01.08,Asia
+2015,1.76,Asia
+2016,1.70,Asia
+2017,1.78,Asia
+2018,1.40,Asia
+2019,1.75,Asia
+2020,2.22,Asia
+2021,1.62,Asia
+2022,1.90,Asia
+1910,-0.01,Europe
+1911,-0.22,Europe
+1912,-0.73,Europe
+1913,-0.18,Europe
+1914,-0.17,Europe
+1915,-0.60,Europe
+1916,-0.05,Europe
+1917,-0.72,Europe
+1918,-0.12,Europe
+1919,-0.61,Europe
+1920,0.03,Europe
+1921,0.02,Europe
+1922,-0.57,Europe
+1923,-0.18,Europe
+1924,-0.40,Europe
+1925,-0.10,Europe
+1926,0.00,Europe
+1927,-0.14,Europe
+1928,-0.27,Europe
+1929,-0.68,Europe
+1930,0.43,Europe
+1931,-0.54,Europe
+1932,-0.10,Europe
+1933,-0.62,Europe
+1934,0.68,Europe
+1935,0.01,Europe
+1936,0.29,Europe
+1937,0.54,Europe
+1938,0.52,Europe
+1939,0.15,Europe
+1940,-1.06,Europe
+1941,-1.07,Europe
+1942,-0.91,Europe
+1943,0.35,Europe
+1944,0.05,Europe
+1945,0.05,Europe
+1946,0.17,Europe
+1947,0.07,Europe
+1948,0.27,Europe
+1949,0.47,Europe
+1950,0.28,Europe
+1951,0.21,Europe
+1952,-0.10,Europe
+1953,0.23,Europe
+1954,-0.27,Europe
+1955,-0.09,Europe
+1956,-1.09,Europe
+1957,0.23,Europe
+1958,-0.04,Europe
+1959,0.33,Europe
+1960,0.25,Europe
+1961,0.69,Europe
+1962,-0.21,Europe
+1963,-0.41,Europe
+1964,-0.14,Europe
+1965,-0.57,Europe
+1966,0.25,Europe
+1967,0.22,Europe
+1968,-0.04,Europe
+1969,-0.47,Europe
+1970,-0.14,Europe
+1971,0.01,Europe
+1972,0.02,Europe
+1973,-0.03,Europe
+1974,0.34,Europe
+1975,0.61,Europe
+1976,-0.45,Europe
+1977,0.02,Europe
+1978,-0.47,Europe
+1979,-0.06,Europe
+1980,-0.54,Europe
+1981,0.04,Europe
+1982,0.26,Europe
+1983,0.49,Europe
+1984,0.06,Europe
+1985,-0.68,Europe
+1986,-0.12,Europe
+1987,-0.62,Europe
+1988,0.31,Europe
+1989,01.08,Europe
+1990,01.05,Europe
+1991,0.22,Europe
+1992,0.47,Europe
+1993,0.02,Europe
+1994,0.86,Europe
+1995,0.64,Europe
+1996,-0.14,Europe
+1997,0.50,Europe
+1998,0.62,Europe
+1999,01.08,Europe
+2000,1.28,Europe
+2001,0.88,Europe
+2002,1.12,Europe
+2003,0.91,Europe
+2004,0.77,Europe
+2005,0.79,Europe
+2006,01.06,Europe
+2007,1.38,Europe
+2008,1.27,Europe
+2009,01.07,Europe
+2010,0.59,Europe
+2011,1.24,Europe
+2012,0.98,Europe
+2013,01.06,Europe
+2014,1.79,Europe
+2015,1.72,Europe
+2016,1.48,Europe
+2017,1.39,Europe
+2018,1.87,Europe
+2019,1.83,Europe
+2020,2.16,Europe
+2021,1.25,Europe
+2022,1.94,Europe
+1910,-0.27,Oceania
+1911,-0.36,Oceania
+1912,0.04,Oceania
+1913,-0.48,Oceania
+1914,0.37,Oceania
+1915,0.28,Oceania
+1916,-0.26,Oceania
+1917,-0.85,Oceania
+1918,-0.39,Oceania
+1919,0.14,Oceania
+1920,-0.32,Oceania
+1921,-0.04,Oceania
+1922,-0.19,Oceania
+1923,-0.16,Oceania
+1924,-0.45,Oceania
+1925,-0.56,Oceania
+1926,-0.04,Oceania
+1927,-0.23,Oceania
+1928,0.15,Oceania
+1929,-0.48,Oceania
+1930,-0.06,Oceania
+1931,-0.31,Oceania
+1932,-0.28,Oceania
+1933,-0.28,Oceania
+1934,-0.21,Oceania
+1935,-0.26,Oceania
+1936,-0.06,Oceania
+1937,-0.07,Oceania
+1938,0.24,Oceania
+1939,-0.32,Oceania
+1940,-0.06,Oceania
+1941,-0.12,Oceania
+1942,0.16,Oceania
+1943,-0.40,Oceania
+1944,-0.18,Oceania
+1945,-0.13,Oceania
+1946,-0.38,Oceania
+1947,-0.23,Oceania
+1948,-0.32,Oceania
+1949,-0.67,Oceania
+1950,-0.36,Oceania
+1951,-0.20,Oceania
+1952,-0.24,Oceania
+1953,-0.22,Oceania
+1954,-0.17,Oceania
+1955,-0.23,Oceania
+1956,-0.57,Oceania
+1957,0.14,Oceania
+1958,0.25,Oceania
+1959,0.32,Oceania
+1960,-0.28,Oceania
+1961,0.21,Oceania
+1962,0.05,Oceania
+1963,-0.05,Oceania
+1964,-0.08,Oceania
+1965,0.16,Oceania
+1966,-0.23,Oceania
+1967,-0.09,Oceania
+1968,-0.17,Oceania
+1969,0.18,Oceania
+1970,0.10,Oceania
+1971,-0.07,Oceania
+1972,0.25,Oceania
+1973,0.60,Oceania
+1974,-0.33,Oceania
+1975,0.04,Oceania
+1976,-0.38,Oceania
+1977,0.18,Oceania
+1978,0.05,Oceania
+1979,0.47,Oceania
+1980,0.69,Oceania
+1981,0.40,Oceania
+1982,0.21,Oceania
+1983,0.54,Oceania
+1984,-0.13,Oceania
+1985,0.31,Oceania
+1986,0.36,Oceania
+1987,0.37,Oceania
+1988,0.80,Oceania
+1989,0.19,Oceania
+1990,0.58,Oceania
+1991,0.60,Oceania
+1992,0.25,Oceania
+1993,0.38,Oceania
+1994,0.30,Oceania
+1995,0.29,Oceania
+1996,0.56,Oceania
+1997,0.41,Oceania
+1998,0.98,Oceania
+1999,0.45,Oceania
+2000,0.19,Oceania
+2001,0.31,Oceania
+2002,0.79,Oceania
+2003,0.78,Oceania
+2004,0.59,Oceania
+2005,01.08,Oceania
+2006,0.59,Oceania
+2007,0.74,Oceania
+2008,0.50,Oceania
+2009,0.95,Oceania
+2010,0.56,Oceania
+2011,0.19,Oceania
+2012,0.39,Oceania
+2013,1.25,Oceania
+2014,01.03,Oceania
+2015,01.03,Oceania
+2016,1.13,Oceania
+2017,01.05,Oceania
+2018,01.06,Oceania
+2019,1.31,Oceania
+2020,1.11,Oceania
+2021,0.69,Oceania
+2022,0.69,Oceania
+1910,-0.30,North America
+1911,-0.45,North America
+1912,-0.65,North America
+1913,-0.67,North America
+1914,-0.55,North America
+1915,0.14,North America
+1916,-0.66,North America
+1917,-1.29,North America
+1918,-0.74,North America
+1919,-0.54,North America
+1920,-0.65,North America
+1921,0.09,North America
+1922,-0.51,North America
+1923,-0.29,North America
+1924,-0.51,North America
+1925,-0.23,North America
+1926,0.07,North America
+1927,-0.35,North America
+1928,0.20,North America
+1929,-0.43,North America
+1930,0.02,North America
+1931,0.77,North America
+1932,-0.23,North America
+1933,-0.42,North America
+1934,0.23,North America
+1935,-0.41,North America
+1936,-0.43,North America
+1937,0.03,North America
+1938,0.48,North America
+1939,0.30,North America
+1940,0.45,North America
+1941,0.62,North America
+1942,0.30,North America
+1943,0.13,North America
+1944,0.43,North America
+1945,-0.04,North America
+1946,0.21,North America
+1947,0.21,North America
+1948,-0.22,North America
+1949,-0.14,North America
+1950,-0.55,North America
+1951,-0.45,North America
+1952,0.47,North America
+1953,0.70,North America
+1954,0.35,North America
+1955,-0.24,North America
+1956,-0.35,North America
+1957,0.08,North America
+1958,0.29,North America
+1959,-0.26,North America
+1960,0.11,North America
+1961,-0.30,North America
+1962,0.07,North America
+1963,0.20,North America
+1964,-0.46,North America
+1965,-0.36,North America
+1966,-0.45,North America
+1967,-0.26,North America
+1968,-0.25,North America
+1969,-0.04,North America
+1970,-0.24,North America
+1971,-0.33,North America
+1972,-0.97,North America
+1973,0.18,North America
+1974,-0.34,North America
+1975,-0.36,North America
+1976,-0.01,North America
+1977,0.62,North America
+1978,-0.22,North America
+1979,-0.17,North America
+1980,0.49,North America
+1981,1.27,North America
+1982,-0.54,North America
+1983,0.01,North America
+1984,0.11,North America
+1985,0.03,North America
+1986,0.48,North America
+1987,01.09,North America
+1988,0.60,North America
+1989,-0.06,North America
+1990,0.30,North America
+1991,0.66,North America
+1992,0.17,North America
+1993,0.19,North America
+1994,0.41,North America
+1995,0.45,North America
+1996,-0.01,North America
+1997,0.46,North America
+1998,1.66,North America
+1999,01.06,North America
+2000,0.76,North America
+2001,1.18,North America
+2002,0.72,North America
+2003,0.95,North America
+2004,0.49,North America
+2005,1.25,North America
+2006,1.54,North America
+2007,0.82,North America
+2008,0.32,North America
+2009,0.51,North America
+2010,1.70,North America
+2011,0.98,North America
+2012,1.58,North America
+2013,0.57,North America
+2014,0.69,North America
+2015,1.27,North America
+2016,2.00,North America
+2017,1.52,North America
+2018,0.84,North America
+2019,01.03,North America
+2020,1.14,North America
+2021,1.59,North America
+2022,0.97,North America
+1910,-0.33,South America
+1911,-0.46,South America
+1912,-0.13,South America
+1913,-0.09,South America
+1914,-0.03,South America
+1915,0.03,South America
+1916,-0.55,South America
+1917,-1.09,South America
+1918,-0.59,South America
+1919,-0.10,South America
+1920,-0.46,South America
+1921,-0.58,South America
+1922,-0.58,South America
+1923,-0.58,South America
+1924,-0.72,South America
+1925,-0.43,South America
+1926,-0.10,South America
+1927,-0.49,South America
+1928,-0.36,South America
+1929,-0.43,South America
+1930,-0.13,South America
+1931,-0.27,South America
+1932,-0.02,South America
+1933,-0.30,South America
+1934,-0.31,South America
+1935,-0.17,South America
+1936,-0.04,South America
+1937,-0.10,South America
+1938,-0.17,South America
+1939,0.00,South America
+1940,0.15,South America
+1941,0.19,South America
+1942,-0.15,South America
+1943,-0.21,South America
+1944,0.18,South America
+1945,0.09,South America
+1946,0.00,South America
+1947,-0.14,South America
+1948,-0.01,South America
+1949,-0.12,South America
+1950,-0.22,South America
+1951,-0.11,South America
+1952,-0.01,South America
+1953,0.19,South America
+1954,-0.12,South America
+1955,-0.35,South America
+1956,-0.54,South America
+1957,-0.04,South America
+1958,0.27,South America
+1959,0.03,South America
+1960,-0.10,South America
+1961,0.15,South America
+1962,-0.10,South America
+1963,0.21,South America
+1964,-0.18,South America
+1965,0.09,South America
+1966,0.08,South America
+1967,0.07,South America
+1968,-0.13,South America
+1969,0.44,South America
+1970,0.25,South America
+1971,-0.21,South America
+1972,0.16,South America
+1973,0.26,South America
+1974,-0.19,South America
+1975,-0.04,South America
+1976,-0.14,South America
+1977,0.32,South America
+1978,0.16,South America
+1979,0.16,South America
+1980,0.39,South America
+1981,0.24,South America
+1982,0.30,South America
+1983,0.52,South America
+1984,0.13,South America
+1985,0.19,South America
+1986,0.33,South America
+1987,0.69,South America
+1988,0.35,South America
+1989,0.20,South America
+1990,0.41,South America
+1991,0.46,South America
+1992,0.31,South America
+1993,0.43,South America
+1994,0.60,South America
+1995,0.64,South America
+1996,0.44,South America
+1997,0.78,South America
+1998,01.04,South America
+1999,0.42,South America
+2000,0.39,South America
+2001,0.70,South America
+2002,0.92,South America
+2003,0.84,South America
+2004,0.76,South America
+2005,0.86,South America
+2006,0.82,South America
+2007,0.70,South America
+2008,0.69,South America
+2009,0.92,South America
+2010,0.95,South America
+2011,0.74,South America
+2012,0.97,South America
+2013,0.86,South America
+2014,01.06,South America
+2015,1.43,South America
+2016,1.19,South America
+2017,1.20,South America
+2018,0.93,South America
+2019,1.29,South America
+2020,1.41,South America
+2021,1.12,South America
+2022,0.93,South America
