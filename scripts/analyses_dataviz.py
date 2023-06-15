@@ -308,7 +308,7 @@ def analyses_dataviz():
     
    
  # #####################################################
-    st.divider() 
+    #st.divider() 
     st.write(" ")
     st.markdown('''
     <div class="box">
