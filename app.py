@@ -72,7 +72,7 @@ with st.sidebar:
     # Deuxième colonne
     with col2:
         #st.image("img/github_logo.png", width=30)
-        st.write("[GitHub]( )")
+        st.write("[GitHub](https://github.com/Guillaume-Bgd)")
         
     # 3.  
     st.write(" ")
