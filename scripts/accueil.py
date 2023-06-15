@@ -18,7 +18,7 @@ def accueil():
         <h3 class="title is-3 has-text-info has-text-centered">Introduction</h3>
     </div>
     ''', unsafe_allow_html=True)
-    st.divider()
+    #st.divider()
     #if st.button("Afficher l'introduction"):
         # Cacher le bouton après qu'il soit cliqué
        # st.empty()
