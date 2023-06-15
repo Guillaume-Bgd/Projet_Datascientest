@@ -385,7 +385,7 @@ Bien entendu, ce modèle a ses limites ! Avec plus de temps, nous aurions pu ét
 
 
 ########################################################################################
-   st.divider()
+   #st.divider()
    from sklearn.utils import shuffle
    from sklearn import linear_model
 
